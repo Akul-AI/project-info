@@ -11,4 +11,4 @@ Prriority is measured as follows: 1 is max priority, and then we go onwards for 
 | Priority    | 2 |
 | ----------- | ----------- |
 
-The rest are all at least priority as of right now.
+The rest are all at least priority as of right now. This doesn't mean that you can't help work on it, however.
