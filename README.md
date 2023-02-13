@@ -10,3 +10,5 @@ Prriority is measured as follows: 1 is max priority, and then we go onwards for 
 ## RLVoice
 | Priority    | 2 |
 | ----------- | ----------- |
+
+The rest are all at least priority as of right now.
