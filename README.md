@@ -13,6 +13,6 @@ Prriority is measured as follows: 1 is max priority, and then we go onwards for 
 | Topic    | Status |
 | ----------- | ----------- |
 | Priority    | 2 |
-| Spported OS    | Windows, Linux, MacOS |
+| Supported OS    | Windows, Linux, MacOS |
 
 The rest are all at least priority as of right now. This doesn't mean that you can't help work on it, however.
